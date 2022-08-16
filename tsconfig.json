@@ -4,6 +4,7 @@
   "exclude": ["node_modules", "**/*.spec.ts", "**/*.d.ts", "src/deno/"],
   "compilerOptions": {
     "outDir": "dist",
-    "declaration": true
+    "declaration": true,
+    "module": "CommonJS"
   }
 }
