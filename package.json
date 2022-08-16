@@ -2,7 +2,8 @@
   "name": "@wioenena.q/pipe",
   "version": "1.0.0",
   "description": "Execute functions based on each other's return values",
-  "main": "index.js",
+  "main": "dist/pipe.js",
+  "types": "dist/pipe.d.ts",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "test": "ts-node src/__tests__/pipe.spec.ts"
