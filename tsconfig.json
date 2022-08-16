@@ -1,6 +1,7 @@
 {
   "extends": "@wioenena.q/tsconfig",
   "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts", "**/*.d.ts", "src/deno/"],
   "compilerOptions": {
     "outDir": "dist",
     "declaration": true
