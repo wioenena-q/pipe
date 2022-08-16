@@ -1,6 +1,6 @@
 {
   "name": "@wioenena.q/pipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute functions based on each other's return values",
   "main": "dist/pipe.js",
   "types": "dist/pipe.d.ts",
