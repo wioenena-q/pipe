@@ -2,6 +2,7 @@
   "extends": "@wioenena.q/tsconfig",
   "include": ["src/**/*.ts"],
   "compilerOptions": {
-    "outDir": "dist"
+    "outDir": "dist",
+    "declaration": true
   }
 }
