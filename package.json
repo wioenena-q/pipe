@@ -1,6 +1,6 @@
 {
   "name": "@wioenena.q/pipe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Execute functions based on each other's return values",
   "main": "dist/pipe.js",
   "types": "dist/pipe.d.ts",
@@ -12,6 +12,10 @@
     "pipe",
     "functions"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wioenena-q/pipe"
+  },
   "author": "Baris",
   "license": "MIT",
   "devDependencies": {
